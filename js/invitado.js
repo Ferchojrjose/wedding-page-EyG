@@ -77,7 +77,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { nombre: "Roni Ambrocio", numInvitados: 1 },
         { nombre: "Ekdy Herrera", numInvitados: 1 },
         { nombre: "Alejandro Zárate", numInvitados: 1 },
-        { nombre: "Warner Chacón", numInvitados: 1 },
+        { nombre: "Lesly Pineda", numInvitados: 1 },
         { nombre: "Denilso Morales", numInvitados: 1 },
         { nombre: "Max Chanquin", numInvitados: 1 },
         { nombre: "Daniel Juarez", numInvitados: 1 },
