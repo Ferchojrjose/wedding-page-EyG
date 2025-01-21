@@ -85,6 +85,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { nombre: "Marelyn Lemus", numInvitados: 1 },
         { nombre: "Maeva Valdez", numInvitados: 1 },
         { nombre: "Johanes Caballeros", numInvitados: 1 },
+        { nombre: "Familia Chupina Menéndez", numInvitados: 4 },
     ];
 
 
